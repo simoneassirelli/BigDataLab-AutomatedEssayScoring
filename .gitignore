@@ -1,3 +1,9 @@
+version_1/datasets
+
+version_2/models
+version_2/models_tuned
+version_2/datasets
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
